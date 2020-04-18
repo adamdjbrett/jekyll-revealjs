@@ -1,0 +1,9 @@
+### Conclusion
+We talked about
+1. Why you should have a Website
+2. Why you should embrace \#nocode and one page websites
+3. We bought a domain name from [name.com](https://www.name.com/referral/da845)
+  - discount code: `da845`
+4. We setup setup [Carrd.co](https://try.carrd.co/yfsyxjl3)
+  - discount code: `yfsyxjl3`
+5. Support [Garmondyu](https://gdwhorwa.expressions.syr.edu/), & [Gladden Podcast](https://www.facebook.com/gladdenpodcast/).

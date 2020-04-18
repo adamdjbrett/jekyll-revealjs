@@ -1,11 +1,11 @@
 # Your presentation title
-title: Jekyll and Reveal.js
+title: 'Embracing the nocode movement and creating an online portfolio'
 
 # Your presentation description (optional)
-description: A framework for easily creating beautiful presentations using HTML
+description: 'Gladden Podcast, Saturday April 18, 2020 7:00PM, hosted by D. Garmondyu Whorway with guest Adam DJ Brett'
 
 # Your name (optional)
-author: jekyll-revealjs contributors
+author: 'Adam DJ Brett'
 
 # The Reveal theme
 reveal_theme: black.css
@@ -14,22 +14,22 @@ reveal_theme: black.css
 reveal_transition: default
 
 # Path to the used theme (defaults to the Reveal.js standard theme path)
-reveal_theme_path: reveal.js/css/theme/ 
+reveal_theme_path: reveal.js/css/theme/
 
 # Additional custom CSS paths
-extra_css: 
+extra_css:
 
 # Custom CSS for highlighting (defaults to reveal.js/lib/css/zenburn.css)
-highlight_style_sheet: 
+highlight_style_sheet:
 
 # Embed Server-side speaker notes?
 reveal_notes_server: false
 
 # Additional reveal.js options
-reveal_options: 
+reveal_options:
 
 # Additional reveal.js dependencies
-reveal_dependencies: 
+reveal_dependencies:
 
 # Reveal.js subdirectory
 reveal_path: reveal.js/
@@ -44,4 +44,3 @@ exclude:
 markdown: kramdown
 highlighter: rouge
 markdown_ext: ignoreme
-
