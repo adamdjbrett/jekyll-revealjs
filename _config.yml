@@ -45,5 +45,3 @@ exclude:
 markdown: kramdown
 highlighter: rouge
 markdown_ext: ignoreme
-theme: adamdjbrett/nocode-slides
-#remote_theme: mmistakes/minimal-mistakes@4.19.1
