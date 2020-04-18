@@ -1,6 +1,7 @@
 # Your presentation title
 title: 'Embracing the nocode movement and creating an online portfolio'
 
+
 # Your presentation description (optional)
 description: 'Gladden Podcast, Saturday April 18, 2020 7:00PM, hosted by D. Garmondyu Whorway with guest Adam DJ Brett'
 
@@ -44,3 +45,5 @@ exclude:
 markdown: kramdown
 highlighter: rouge
 markdown_ext: ignoreme
+theme: dploeger/jekyll-revealjs
+#remote_theme: mmistakes/minimal-mistakes@4.19.1
